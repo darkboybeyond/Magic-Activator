@@ -41,7 +41,7 @@ Bypassing iCloud violates Apple’s ToS – do it responsibly.
    https://www.icloud.com/shortcuts/0002e5bd9b7842bda3c2a83ad82033c9 📲  
 4. Magic server generates a fake signed activation record 🎟️  
 5. Record gets injected → device activated successfully 🎉  
-6. OTA updates blocked automatically 🛡️  
+6. OTA updates block 🛡️  
 
 **Success time:** 3–7 minutes ⏱️  
 **>10 min = abort & retry after cooldown**
