@@ -17,8 +17,8 @@ Bypassing iCloud violates Apple’s ToS – do it responsibly.
 | Category              | Supported                                                                 |
 |-----------------------|---------------------------------------------------------------------------|
 | **iOS Versions**      | iOS 17.0 → iOS 26.1 (all builds) ✅<br>iOS 26.2 Beta 1 and below only ⚠️   |
-| **Devices**           | A8 → A18 (iPhone 6s → iPhone 17 series & compatible iPads)               |
-| **Best regions**      | LL/A, XX/A (Americas) 🌎                                                 |
+| **Devices**           | A12 → A18 (iPhone Xs → iPhone 17 series & compatible iPads)               |
+| **Best regions**      | LL/A, (Americas) 🌎                                                     |
 | **Partial regions**   | Europe, Asia, China (more community files = better support)              |
 | **Platform**          | Windows 10/11 (64-bit) 🖥️                                                |
 
@@ -39,7 +39,7 @@ Bypassing iCloud violates Apple’s ToS – do it responsibly.
 - Completely FREE (no hidden paid version) 💸  
 - No jailbreak required 🚫  
 - Real-time detailed logs 📜  
-- Auto OTA block 🛑  
+- OTA block 🛑  
 - tvOS profile sideloading 📺  
 - Weekly updates during beta season ⚡  
 
