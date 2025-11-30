@@ -13,6 +13,17 @@ Spiritual successor of the legendary redsn0w, now supporting the latest iOS vers
 **Use ONLY on devices you own or have permission to unlock.**  
 Bypassing iCloud violates Apple’s ToS – do it responsibly.
 
+## IMPORTANT – Required Dependencies
+**Magic Activator v1.1.0.2+ now requires Python to work correctly:**
+
+1. **Download and install Python 3.11.9 (64-bit)**  
+   → https://www.python.org/ftp/python/3.11.9/python-3.11.9-amd64.exe  
+   ☑️ **IMPORTANT:** During installation, check "**Add Python to PATH**"
+
+2. **Install pymobiledevice3** (open CMD as Administrator and run):
+   ```bash
+   pip install -U pymobiledevice3
+
 ## Compatibility 📱
 | Category              | Supported                                                                 |
 |-----------------------|---------------------------------------------------------------------------|
