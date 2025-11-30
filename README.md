@@ -23,7 +23,7 @@ Bypassing iCloud violates Apple’s ToS – do it responsibly.
 | **Platform**          | Windows 10/11 (64-bit) 🖥️                                                |
 
 ## How It Works (Technical Deep Dive) 🛠️
-1. Connect device via USB (DFU/Recovery mode) 🔌  
+1. Connect device via USB (normal mode) 🔌  
 2. Tool reads ECID, model, region & iOS build 🔍  
 3. Provide exact **MobileGestalt + supporting files**  
    → Extract in seconds with this shortcut:  
