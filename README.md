@@ -55,7 +55,7 @@ Bypassing iCloud violates Apple’s ToS – do it responsibly.
 - Weekly updates during beta season ⚡  
 
 ## Installation & Usage 🚀
-1. Register for free → https://magicstore.qzz.io  
+1. Register for free → https://magicstore.qzz.io/index.html  
 2. Download latest build (v1.1.0.2 or newer)  
 3. Run as Administrator 👑  
 4. Put device in Normal, Use Wi-Fi → select correct workflow → wait for the magic 🎇  
