@@ -28,7 +28,7 @@ Bypassing iCloud violates Apple’s ToS – do it responsibly.
 | Category              | Supported                                                                 |
 |-----------------------|---------------------------------------------------------------------------|
 | **iOS Versions**      | iOS 17.0 → iOS 26.1 (all builds) ✅<br>iOS 26.2 Beta 1 and below only ⚠️   |
-| **Devices**           | A12 → A18 (iPhone Xs → iPhone 17 series & compatible iPads)               |
+| **Devices**           | A12 → A18 (iPhone Xs → iPhone 17/Air series & compatible iPads)            |
 | **Best regions**      | LL/A (Americas) 🌎                                                       |
 | **Partial regions**   | Europe, Asia, China (more community files = better support)              |
 | **Platform**          | Windows 10/11 (64-bit) 🖥️                                                |
