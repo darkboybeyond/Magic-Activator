@@ -8,7 +8,8 @@
 
 ## Overview ✨
 Magic Activator is a **100% free Windows tool** that bypasses iCloud Activation Lock on iOS devices – no Apple ID or password needed.  
-Spiritual successor of the legendary redsn0w, now supporting the latest iOS versions in 2025! 🚀
+Spiritual successor of the legendary redsn0w, now supporting the latest iOS 18.7.2 and 26.0.1 - 26.1! 🚀
+Chinese devices will be need of premium service, soon in Magic Activator!
 
 **Use ONLY on devices you own or have permission to unlock.**  
 Bypassing iCloud violates Apple’s ToS – do it responsibly.
