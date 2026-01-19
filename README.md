@@ -1,24 +1,47 @@
+
 <p align="center">
   <img src="logo.png" width="280"/>
   <br>
-  <b>Magic Activator – Free iCloud Bypass Tool (redsn0w Edition)</b>
+  <b>Magic Activator Pro – Premium iCloud Bypass Tool (v1.1.1)</b>
 </p>
 
-# Magic Activator – iCloud Activation Lock Bypass Tool (redsn0w Edition) 🪄🔓
+# Magic Activator Pro – iCloud Activation Lock Bypass (redsn0w Edition) 🪄🔓
 
 ## Overview ✨
-Magic Activator is a **100% free Windows tool** that bypasses iCloud Activation Lock on iOS devices – no Apple ID or password needed.  
-Spiritual successor of the legendary redsn0w, now supporting the latest iOS 18.7.2 and 26.0.1 - 26.1! 🚀
-Chinese devices will be need of premium service, soon in Magic Activator!
+**Magic Activator Pro** is the professional evolution of iCloud bypassing. Due to high server maintenance costs and the complexity of developing for Apple’s latest versions, the project has transitioned to a monetized Pro model.
 
-**Use ONLY on devices you own or have permission to unlock.**  
-Bypassing iCloud violates Apple’s ToS – do it responsibly.
+Spiritual successor of the legendary redsn0w, currently supporting **iOS 18.7.2** and **iOS 26.0.1 through 26.2 Beta 1**! 🚀
+Support for Chinese devices (CH/A) is currently under evaluation and will be clarified in future updates.
 
-## IMPORTANT – Required Dependencies
-**Magic Activator v1.1.0.2+ now requires Python to work correctly:**
+**Use ONLY on devices you own or have permission to unlock.** Bypassing iCloud violates Apple’s ToS – do it responsibly.
 
-1. **Download and install Python 3.11.9 (64-bit)**  
-   → https://www.python.org/ftp/python/3.11.9/python-3.11.9-amd64.exe  
+---
+
+## 💎 Pricing & Registration
+To maintain infrastructure and active development for new exploits, v1.1.1 requires Serial Number (SN) registration. Your support through registration is vital; it directly funds the research needed to find and develop exploits for currently unsupported versions like iOS 18.7.3+ and iOS 26.X+.
+
+* **Cost:** $5.00 USD per device.
+* **Access:** Permanent registration for the processed SN (unlimited re-activations on the same device).
+* **Registration Panel:** https://magicstore.qzz.io/index.html
+
+---
+## 🆕 Changelog v1.1.1 (Pro Update) 🛠️
+* **New Registration System:** Implemented a direct registration button for new devices, streamlining the initial workflow.
+* **Enhanced Activation Recovery:** New activation key gathering method designed specifically for erased or hard-reset devices, ensuring the fastest possible server response.
+* **Extended Compatibility:** Added support for "Disabled" or "Passcode Locked" states within the Activation Lock flow.
+* **Interactive Workflow:** Real-time interactive steps implemented to guide users as they correctly advance through the process.
+* **Process Control:** Added a dedicated "Stop" button to safely halt operations.
+* **Optimized Writing Engine:** Improved file processing method to ensure iOS completely and correctly writes the Activation Record.
+* **DataBin Generation:** Refined algorithm for DataBin file generation for better stability.
+* **System Integrity:** Significant improvements to registration checks and overall software performance.
+* **OTA & Server Synergy:** Optimized OTA block operations and unified servers/files for maximum global effectiveness.
+
+---
+## IMPORTANT – Required Dependencies ⚠️
+**Magic Activator Pro v1.1.1 requires Python to work correctly:**
+
+1. **Download and install Python 3.11.9 (64-bit)**
+   → https://www.python.org/ftp/python/3.11.9/python-3.11.9-amd64.exe
    ☑️ **IMPORTANT:** During installation, check "**Add Python to PATH**"
 
 2. **Install pymobiledevice3** (open CMD as Administrator and run):
@@ -26,90 +49,100 @@ Bypassing iCloud violates Apple’s ToS – do it responsibly.
    pip install -U pymobiledevice3
 
 ## Compatibility 📱
-| Category              | Supported                                                                 |
-|-----------------------|---------------------------------------------------------------------------|
-| **iOS Versions**      | iOS 17.0 → iOS 26.1 (all builds) ✅<br>iOS 26.2 Beta 1 and below only ⚠️   |
-| **Devices**           | A12 → A19 (iPhone Xs → iPhone 17/Air series & compatible iPads)            |
-| **Best regions**      | LL/A (Americas) 🌎                                                       |
-| **Partial regions**   | Europe, Asia, China (more community files = better support)              |
-| **Platform**          | Windows 10/11 (64-bit) 🖥️                                                |
+| Category | Supported |
+| :--- | :--- |
+| **Supported Versions** | iOS 17.0 → iOS 18.7.2 / iOS 26.0.1, 26.1, and 26.2 Beta 1 ✅ |
+| **NOT Supported Yet** | iOS 18.7.3+ and iOS 26.2 Beta 2+ (Researching exploits) ⚠️ |
+| **Devices** | A12 → A19 (iPhone Xs → iPhone 17/Air series & compatible iPads) |
+| **Best regions** | Global Support (LL/A, EU, ASIA) 🌎 |
+| **Platform** | Windows 10/11 (64-bit) 🖥️ |
+
+---
 
 ## How It Works (Technical Deep Dive) 🛠️
-1. Connect device via USB (normal mode) 🔌  
-2. Tool reads ECID, model, region & iOS build 🔍  
-3. Provide exact **MobileGestalt + supporting files**  
-   → Extract in seconds with this shortcut:  
-   https://www.icloud.com/shortcuts/0002e5bd9b7842bda3c2a83ad82033c9 📲  
-4. Magic server generates a fake signed activation record 🎟️  
-5. Record gets injected → device activated successfully 🎉  
-6. OTA updates block 🛡️  
+1. Connect device via USB (normal mode) 🔌
+2. Tool reads ECID, model, region & iOS build 🔍
+3. **Register your SN** in the [Magic Store](https://magicstore.qzz.io/index.html) ($5 USD fee).
+4. Provide exact **MobileGestalt + supporting files**
+   → Extract in seconds with this shortcut:
+   https://www.icloud.com/shortcuts/0002e5bd9b7842bda3c2a83ad82033c9 📲
+5. Magic server generates a signed activation ticket 🎟️
+6. Record gets injected → device activated successfully 🎉
+7. OTA updates block 🛡️
 
-**Success time:** 3–7 minutes ⏱️  
+**Success time:** 3–7 minutes ⏱️
 **>10 min = abort & retry after cooldown**
 
+---
 ## Features 🔥
-- Completely FREE (no hidden paid version) 💸  
-- No jailbreak required 🚫  
-- Real-time detailed logs 📜  
-- OTA block 🛑  
-- tvOS profile sideloading 📺  
-- Weekly updates during beta season ⚡  
+- **Premium Build:** Premium servers with ultra-fast response for Pro activations. 💸
+- No jailbreak required 🚫
+- Real-time detailed logs 📜
+- OTA block 🛑
+- tvOS profile sideloading 📺
+- Weekly updates during beta season ⚡
+
+---
 
 ## Installation & Usage 🚀
-1. Register for free → https://magicstore.qzz.io/index.html  
-2. Download latest build (v1.1.0.2 or newer)  
-3. Run as Administrator 👑  
-4. Put device in Normal, Use Wi-Fi → select correct workflow → wait for the magic 🎇  
+1. Register and pay for your SN ($5 USD) → https://magicstore.qzz.io/index.html
+2. Download latest build (**v1.1.1**)
+3. Run as Administrator 👑
+4. Put device in Normal, Use Wi-Fi → select correct workflow → wait for the magic 🎇
+
+---
 
 ## Current Limitations ⚠️
-- No full iCloud services (Drive, Find My, etc.)  
-- No push notifications on some builds  
-- Calls/SMS may be broken on GSM devices  
-- iOS 26.2 Beta 2+ → currently **NOT supported** (Apple patched the exploit)
+- No full iCloud services (Drive, Find My, etc.)
+- No push notifications on some builds
+- Calls/SMS may be broken on GSM devices
+- iOS 18.7.3+ / iOS 26.2 Beta 2+ → currently **NOT supported** (Research in progress)
+
+---
 
 ## Issues ❓
-**idk, u tell me!**  
-Found a bug? Missing your region/build? Want a new feature?  
-→ Open an Issue here on GitHub and I’ll check it as soon as possible! 🛠️
+**idk, u tell me!**
+Found a bug? Missing your region/build? Want a new feature?
+→ Open an **Issue** here on GitHub and I’ll check it as soon as possible! 🛠️
 
-## Donations – Help Unlock the Future! ❤️
-Magic Activator will **never** be paywalled, but your donations directly fund the next big features:
+---
 
-With your support we will add:
-- Full Chinese (CH/A) & rare region support 🇨🇳🌍  
-- Push notifications fix 📲  
-- Partial iServices restoration (iCloud sign-in, Apple Pay, etc.)  
-- DRM bypass for App Store & media  
-- iOS 26.2+ support as soon as new methods are found  
-
-**Donate here → https://www.paypal.com/paypalme/AlienSK**  
-Every donation keeps the magic alive and speeds up new releases! ☕
+## Support & Future Development ❤️
+Your $5 registration fee directly funds the research and development of the next big features:
+- Research and integration of the latest exploits for **iOS 18.7.3+** and **iOS 26.X+**.
+- Push notifications fix 📲
+- Partial iServices restoration (iCloud sign-in, Apple Pay, etc.)
+- Stabilization for rare regions 🌍
 
 All future builds & changelogs will be published right here on GitHub (closed-source binaries, open changelogs & community files).
 
+---
+
 ## Roadmap (Actively in Development) 🗺️
-- iOS 26.2+ bypass (when new exploit drops)  
-- Native macOS version 🍎  
-- Built-in MobileGestalt extractor  
-- Full European & Chinese region packs  
-- Misaka26/TrollStore integration  
-- Weekly beta builds during iOS seasons  
+- Ongoing research for iOS 18.7.3+ and iOS 26.2+ (Beta 2+) exploits.
+- Native macOS version 🍎
+- Built-in MobileGestalt extractor
+- Misaka26/TrollStore integration
+
+---
 
 ## Screenshot 🖼️
 <p align="center">
   <img src="Screenshot.png" width="980"/>
 </p>
 
+---
+
 ## Credits & Love ❤️
-- Lead developer: @DarkboyBeyond (Honduras 🇭🇳)  
-- Inspired by redsn0w, checkra1n & the old jailbreak legends  
-- Huge thanks to every file contributor and tester!  
+- Lead developer: @DarkboyBeyond (Honduras 🇭🇳)
+- Inspired by redsn0w, checkra1n & the old jailbreak legends
+- Huge thanks to every file contributor and tester!
 
 ## License
-Proprietary binaries – free forever.  
+Proprietary binaries.
 Changelogs, docs & community files: MIT.
 
-**Magic Activator – Bringing locked devices back to life, one bypass at a time.**  
+**Magic Activator Pro – Bringing locked devices back to life, one bypass at a time.**
 Follow @DarkboyBeyond on X for instant updates! 🪄✨
 
-*Last updated: November 30, 2025*
+*Last updated: January 18, 2026*
