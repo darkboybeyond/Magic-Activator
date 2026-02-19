@@ -2,10 +2,10 @@
 <p align="center">
   <img src="logo.png" width="280"/>
   <br>
-  <b>Magic Activator Pro – Premium iCloud Bypass Tool (v1.1.1)</b>
+  <b>Magic Activator Pro – Premium iCloud Bypass Tool </b>
 </p>
 
-# Magic Activator Pro – iCloud Activation Lock Bypass (redsn0w Edition) 🪄🔓
+# Magic Activator Pro – iCloud Activation Lock Bypass 🪄🔓
 
 ## Overview ✨
 **Magic Activator Pro** is the professional evolution of iCloud bypassing. Due to high server maintenance costs and the complexity of developing for Apple’s latest versions, the project has transitioned to a monetized Pro model.
@@ -25,7 +25,7 @@ To maintain infrastructure and active development for new exploits, v1.1.1 requi
 * **Registration Panel:** https://magicstore.qzz.io/index.html
 
 ---
-## 🆕 Changelog v1.1.1 (Pro Update) 🛠️
+## 🆕 Changelog (Pro Update) 🛠️
 * **New Registration System:** Implemented a direct registration button for new devices, streamlining the initial workflow.
 * **Enhanced Activation Recovery:** New activation key gathering method designed specifically for erased or hard-reset devices, ensuring the fastest possible server response.
 * **Extended Compatibility:** Added support for "Disabled" or "Passcode Locked" states within the Activation Lock flow.
@@ -38,7 +38,7 @@ To maintain infrastructure and active development for new exploits, v1.1.1 requi
 
 ---
 ## IMPORTANT – Required Dependencies ⚠️
-**Magic Activator Pro v1.1.1 requires Python to work correctly:**
+**Magic Activator Pro requires Python to work correctly:**
 
 1. **Download and install Python 3.11.9 (64-bit)**
    → https://www.python.org/ftp/python/3.11.9/python-3.11.9-amd64.exe
