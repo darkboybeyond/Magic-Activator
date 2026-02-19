@@ -18,7 +18,7 @@ Support for Chinese devices (CH/A) is currently under evaluation and will be cla
 ---
 
 ## 💎 Pricing & Registration
-To maintain infrastructure and active development for new exploits, v1.1.1 requires Serial Number (SN) registration. Your support through registration is vital; it directly funds the research needed to find and develop exploits for currently unsupported versions like iOS 18.7.3+ and iOS 26.X+.
+To maintain infrastructure and active development for new exploits, Magic Activator Pro requires Serial Number (SN) registration. Your support through registration is vital; it directly funds the research needed to find and develop exploits for currently unsupported versions like iOS 18.7.3+ and iOS 26.X+.
 
 * **Cost:** $5.00 USD per device.
 * **Access:** Permanent registration for the processed SN (unlimited re-activations on the same device).
