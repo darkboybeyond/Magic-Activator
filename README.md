@@ -46,7 +46,7 @@ To maintain infrastructure and active development for new exploits, Magic Activa
 
 2. **Install pymobiledevice3** (open CMD as Administrator and run):
    ```bash
-   pip install -U pymobiledevice3
+   pip install pymobiledevice3==3.3.0
 
 ## Compatibility 📱
 | Category | Supported |
