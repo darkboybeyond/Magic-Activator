@@ -65,7 +65,7 @@ To maintain infrastructure and active development for new exploits, Magic Activa
 1. Connect device via USB (normal mode) 🔌
 2. Tool reads ECID, model, region & iOS build 🔍
 3. **Register your SN** in the [Magic Store](https://magicstore.qzz.io/index.html) ($5 USD fee).
-4. Provide exact **MobileGestalt + supporting files** (Now handled automatically by the **Built-in MobileGestalt extractor**).
+4. Provide exact **MobileGestalt + supporting files** .
 5. Magic server generates a signed activation ticket 🎟️
 6. Record gets injected → device activated successfully 🎉
 7. OTA updates block 🛡️
