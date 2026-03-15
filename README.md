@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="logo.png" width="280"/>
   <br>
@@ -25,7 +24,9 @@ To maintain infrastructure and active development for new exploits, Magic Activa
 * **Registration Panel:** https://magicstore.qzz.io/index.html
 
 ---
-## 🆕 Changelog (Pro Update) 🛠️
+## 🆕 Changelog (v1.1.2.3-1 Update) 🛠️
+* **Native macOS Support:** Released the official macOS port.
+* **Built-in MobileGestalt Extractor:** Automatically extracts all necessary data upon connection.
 * **New Registration System:** Implemented a direct registration button for new devices, streamlining the initial workflow.
 * **Enhanced Activation Recovery:** New activation key gathering method designed specifically for erased or hard-reset devices, ensuring the fastest possible server response.
 * **Extended Compatibility:** Added support for "Disabled" or "Passcode Locked" states within the Activation Lock flow.
@@ -47,6 +48,7 @@ To maintain infrastructure and active development for new exploits, Magic Activa
 2. **Install pymobiledevice3** (open CMD as Administrator and run):
    ```bash
    pip install pymobiledevice3==6.1.5
+   ```
 
 ## Compatibility 📱
 | Category | Supported |
@@ -55,7 +57,7 @@ To maintain infrastructure and active development for new exploits, Magic Activa
 | **NOT Supported Yet** | iOS 18.7.3+ and iOS 26.2 Beta 2+ (Researching exploits) ⚠️ |
 | **Devices** | A12 → A19 (iPhone Xs → iPhone 17/Air series & compatible iPads) |
 | **Best regions** | Global Support (LL/A, EU, ASIA) 🌎 |
-| **Platform** | Windows 10/11 (64-bit) 🖥️ |
+| **Platform** | Windows 10/11 (64-bit) & macOS 🖥️🍎 |
 
 ---
 
@@ -63,9 +65,7 @@ To maintain infrastructure and active development for new exploits, Magic Activa
 1. Connect device via USB (normal mode) 🔌
 2. Tool reads ECID, model, region & iOS build 🔍
 3. **Register your SN** in the [Magic Store](https://magicstore.qzz.io/index.html) ($5 USD fee).
-4. Provide exact **MobileGestalt + supporting files**
-   → Extract in seconds with this shortcut:
-   https://www.icloud.com/shortcuts/0002e5bd9b7842bda3c2a83ad82033c9 📲
+4. Provide exact **MobileGestalt + supporting files** (Now handled automatically by the **Built-in MobileGestalt extractor**).
 5. Magic server generates a signed activation ticket 🎟️
 6. Record gets injected → device activated successfully 🎉
 7. OTA updates block 🛡️
@@ -76,6 +76,7 @@ To maintain infrastructure and active development for new exploits, Magic Activa
 ---
 ## Features 🔥
 - **Premium Build:** Premium servers with ultra-fast response for Pro activations. 💸
+- **Integrated Extractor:** Native data gathering for smoother processing.
 - No jailbreak required 🚫
 - Real-time detailed logs 📜
 - OTA block 🛑
@@ -86,8 +87,8 @@ To maintain infrastructure and active development for new exploits, Magic Activa
 
 ## Installation & Usage 🚀
 1. Register and pay for your SN ($5 USD) → https://magicstore.qzz.io/index.html
-2. Download latest build (**v1.1.1**)
-3. Run as Administrator 👑
+2. Download latest build (**v1.1.2.3-1**)
+3. Run as Administrator (Windows) / Sudo (macOS) 👑
 4. Put device in Normal, Use Wi-Fi → select correct workflow → wait for the magic 🎇
 
 ---
@@ -116,19 +117,31 @@ Your $5 registration fee directly funds the research and development of the next
 
 All future builds & changelogs will be published right here on GitHub (closed-source binaries, open changelogs & community files).
 
+**Contact & Support:**
+* 🌐 **Web:** [https://magicstore.qzz.io/](https://magicstore.qzz.io/)
+* 𝕏 **X (Twitter):** [x.com/magicactivator](https://x.com/magicactivator)
+* 💬 **WhatsApp Support:** [+504 9291-2204](https://wa.me/50492912204)
+
 ---
 
 ## Roadmap (Actively in Development) 🗺️
 - Ongoing research for iOS 18.7.3+ and iOS 26.2+ (Beta 2+) exploits.
-- Native macOS version 🍎
-- Built-in MobileGestalt extractor
+- ~~Native macOS version 🍎~~
+- ~~Built-in MobileGestalt extractor~~
 - Misaka26/TrollStore integration
 
 ---
 
-## Screenshot 🖼️
+## Screenshots 🖼️
+
+**Windows Port**
 <p align="center">
   <img src="Screenshot.png" width="980"/>
+</p>
+
+**macOS Port**
+<p align="center">
+  <img src="Screenshot-2.png" width="980"/>
 </p>
 
 ---
@@ -145,4 +158,4 @@ Changelogs, docs & community files: MIT.
 **Magic Activator Pro – Bringing locked devices back to life, one bypass at a time.**
 Follow @DarkboyBeyond on X for instant updates! 🪄✨
 
-*Last updated: January 18, 2026*
+*Last updated: March 15, 2026*
