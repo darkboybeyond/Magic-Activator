@@ -9,7 +9,7 @@
 ## Overview ✨
 **Magic Activator Pro** is the professional evolution of iCloud bypassing. Due to high server maintenance costs and the complexity of developing for Apple’s latest versions, the project has transitioned to a monetized Pro model.
 
-Spiritual successor of the legendary redsn0w, currently supporting **iOS 14-18.7.2** and **iOS 26.0.1 through 26.1 and 26.2 Beta 1**! 🚀
+Spiritual successor of the legendary redsn0w, currently supporting **iOS 14-18.7.2** and **iOS 26.0 through 26.1 and 26.2 Beta 1**! 🚀
 Support for Chinese devices (CH/A) is currently under evaluation and will be clarified in future updates.
 
 **Use ONLY on devices you own or have permission to unlock.** Bypassing iCloud violates Apple’s ToS – do it responsibly.
