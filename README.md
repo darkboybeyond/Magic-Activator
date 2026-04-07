@@ -1,104 +1,161 @@
 <p align="center">
-  <img src="./logo.png" width="250"/>
+  <img src="logo.png" width="280"/>
   <br>
-  <b>Magic Invoice App – Professional PoP Recovery & Generation 📱✨</b>
+  <b>Magic Activator Pro – Premium iCloud Bypass Tool </b>
 </p>
 
-<div align="center">
-
-[![Version](https://img.shields.io/badge/Version-1.4.0-blue.svg?style=for-the-badge)](https://github.com/darkboybeyond)
-[![Platform](https://img.shields.io/badge/Platform-iOS-lightgrey.svg?style=for-the-badge)](https://github.com/darkboybeyond)
-[![Language](https://img.shields.io/badge/Language-English-green.svg?style=for-the-badge)](https://github.com/darkboybeyond)
-[![UI](https://img.shields.io/badge/UI-Modern_Refactor-orange.svg?style=for-the-badge)](https://github.com/darkboybeyond)
-
-</div>
-
----
-
-> [!NOTE]
-> **Evolution of the Project:** Formerly known as **Magic Invoice Pack**, this project has been fully refactored into the **Magic Invoice App** suite, focusing exclusively on high-fidelity **Proof of Purchase (PoP) recovery**.
+# Magic Activator Pro – iCloud Activation Lock Bypass 🪄🔓
 
 ## Overview ✨
-Magic Invoice App provides users with the ability to generate legitimate documentation for Apple devices based on real invoice formats. Whether you are managing warranty claims, processing returns, or requiring official documentation for iCloud unlock and "Find My" deactivation, our software generates high-quality **MagicFiles** using industry-standard templates.
+**Magic Activator Pro** is the professional evolution of iCloud bypassing. Due to high server maintenance costs and the complexity of developing for Apple’s latest versions, the project has transitioned to a monetized Pro model.
 
-> [!IMPORTANT]
-> **A Critical Step for Apple Support:** Navigating the [Apple Activation Lock support request](https://al-support.apple.com/#/) process is an official legal measure. Our software acts as a critical bridge, helping you organize the exact information required by Apple to verify device ownership and proceed with activation lock removals legally and effectively.
+Spiritual successor of the legendary redsn0w, currently supporting **iOS 14-18.7.2** and **iOS 26.0 through 26.1 and 26.2 Beta 1**! 🚀
+Support for Chinese devices (CH/A) is currently under evaluation and will be clarified in future updates.
 
----
-
-<div align="center">
-  <h2>🚀 Key Features</h2>
-</div>
-
-* **⚡ Automatic iOS Detection:** Native logic to instantly retrieve Serial Numbers, IMEI, UDID, and Model info via USB connection.
-* **📑 Professional Templates:** High-fidelity **POS (Point of Sale)** receipt formats currently supported.
-* **🎨 Modern UI/UX:** Fully modular interface featuring a sleek design and intuitive navigation.
-* **🖨️ Advanced Hardware Control:** Integrated printer setup to manage thermal and system printers for physical output.
-* **💎 Data Integrity:** Automated data population into exact templates to fulfill all support expectations.
+**Use ONLY on devices you own or have permission to unlock.** Bypassing iCloud violates Apple’s ToS – do it responsibly.
 
 ---
 
-<div align="center">
-  <h2>📸 Visual Overview</h2>
+## 💎 Pricing & Registration
+To maintain infrastructure and active development for new exploits, Magic Activator Pro requires Serial Number (SN) registration. Your support through registration is vital; it directly funds the research needed to find and develop exploits for currently unsupported versions like iOS 18.7.3+ and iOS 26.X+.
 
-  <h3>🖥️ Core Functionality</h3>
-  <table>
-    <tr>
-      <td align="center"><b>User Interface</b></td>
-      <td align="center"><b>Invoice Generator</b></td>
-    </tr>
-    <tr>
-      <td><img src="./screenshots/user_interface.gif" width="400"/></td>
-      <td><img src="./screenshots/invoice_generator.gif" width="400"/></td>
-    </tr>
-  </table>
+* **Cost:** $5.00 USD per device.
+* **Access:** Permanent registration for the processed SN (unlimited re-activations on the same device).
+* **Registration Panel:** https://magicstore.qzz.io/index.html
 
-  <br>
+---
+## 🆕 Changelog (v1.1.2.3-1 Update) 🛠️
+* **Native macOS Support:** Released the official macOS port.
+* **Built-in MobileGestalt Extractor:** Automatically extracts all necessary data upon connection.
+* **New Registration System:** Implemented a direct registration button for new devices, streamlining the initial workflow.
+* **Enhanced Activation Recovery:** New activation key gathering method designed specifically for erased or hard-reset devices, ensuring the fastest possible server response.
+* **Extended Compatibility:** Added support for "Disabled" or "Passcode Locked" states within the Activation Lock flow.
+* **Interactive Workflow:** Real-time interactive steps implemented to guide users as they correctly advance through the process.
+* **Process Control:** Added a dedicated "Stop" button to safely halt operations.
+* **Optimized Writing Engine:** Improved file processing method to ensure iOS completely and correctly writes the Activation Record.
+* **DataBin Generation:** Refined algorithm for DataBin file generation for better stability.
+* **System Integrity:** Significant improvements to registration checks and overall software performance.
+* **OTA & Server Synergy:** Optimized OTA block operations and unified servers/files for maximum global effectiveness.
 
-  <h3>🎨 Advanced Settings</h3>
-  <img src="./screenshots/features_combined.gif" width="820"/>
-  <p><i>Optimized for focus with granular hardware control.</i></p>
+---
+## IMPORTANT – Required Dependencies ⚠️
+**Magic Activator Pro requires Python to work correctly:**
 
-  <br>
+1. **Download and install Python 3.11.9 (64-bit)**
+   → https://www.python.org/ftp/python/3.11.9/python-3.11.9-amd64.exe
+   ☑️ **IMPORTANT:** During installation, check "**Add Python to PATH**"
 
-  <h3>📄 Printed Document Samples</h3>
-  <p>Real-world output samples generated and printed by Magic Invoice App using thermal and standard printers.</p>
-  <img src="./screenshots/printed_sample_1.png" width="400"/>
-  <img src="./screenshots/printed_sample_2.png" width="400"/>
-</div>
+2. **Install pymobiledevice3** (open CMD as Administrator and run):
+   ```bash
+   pip install pymobiledevice3==6.1.5
+   ```
+
+## Compatibility 📱
+| Category | Supported |
+| :--- | :--- |
+| **Supported Versions** | iOS 17.0 → iOS 18.7.2 / iOS 26.0.1, 26.1, and 26.2 Beta 1 ✅ |
+| **NOT Supported Yet** | iOS 18.7.3+ and iOS 26.2 Beta 2+ (Researching exploits) ⚠️ |
+| **Devices** | A12 → A19 (iPhone Xs → iPhone 17/Air series & compatible iPads) |
+| **Best regions** | Global Support (LL/A, EU, ASIA) 🌎 |
+| **Platform** | Windows 10/11 (64-bit) & macOS 🖥️🍎 |
 
 ---
 
-<div align="center">
-  <h2>🛠️ How it Works</h2>
-</div>
+## How It Works (Technical Deep Dive) 🛠️
+1. Connect device via USB (normal mode) 🔌
+2. Tool reads ECID, model, region & iOS build 🔍
+3. **Register your SN** in the [Magic Store](https://magicstore.qzz.io/index.html) ($5 USD fee).
+4. Provide exact **MobileGestalt + supporting files** .
+5. Magic server generates a signed activation ticket 🎟️
+6. Record gets injected → device activated successfully 🎉
+7. OTA updates block 🛡️
 
-1.  **Connect:** Plug in your iOS device via USB. The app automatically fetches the hardware identifiers.
-2.  **Select:** Choose the appropriate invoice template for your specific case.
-3.  **Input:** Fill in the necessary purchase details into our automated fields.
-4.  **Generate:** Produce a professional MagicFile or physical print ready for official support submissions.
+**Success time:** 3–7 minutes ⏱️
+**>10 min = abort & retry after cooldown**
+
+---
+## Features 🔥
+- **Premium Build:** Premium servers with ultra-fast response for Pro activations. 💸
+- **Integrated Extractor:** Native data gathering for smoother processing.
+- No jailbreak required 🚫
+- Real-time detailed logs 📜
+- OTA block 🛑
+- tvOS profile sideloading 📺
+- Weekly updates during beta season ⚡
 
 ---
 
-> [!WARNING]
-> **Legal Disclaimer:** We do not offer or sell any real personal or corporate information. Magic Invoice App is a software tool designed to automate the process of inputting **user-provided information** into exact templates. The legality of the generated documents depends on the truthfulness of the data provided by the user.
+## Installation & Usage 🚀
+1. Register and pay for your SN ($5 USD) → https://magicstore.qzz.io/index.html
+2. Download latest build (**v1.1.2.3-1**)
+3. Run as Administrator (Windows) / Sudo (macOS) 👑
+4. Put device in Normal, Use Wi-Fi → select correct workflow → wait for the magic 🎇
 
 ---
 
-<div align="center">
-  <h2>🛣️ Project Roadmap</h2>
-</div>
-
-- [x] **POS Support:** Full automation for thermal receipt formats.
-- [ ] **A4 Documents:** Support for standard office invoice formats (Coming Soon).
-- [ ] **Email Receipts:** Digital proof of purchase templates (Coming Soon).
+## Current Limitations ⚠️
+- No full iCloud services (Drive, Find My, etc.)
+- No push notifications on some builds
+- Calls/SMS may be broken on GSM devices
+- iOS 18.7.3+ / iOS 26.2 Beta 2+ → currently **NOT supported** (Research in progress)
 
 ---
 
-<div align="center">
-  <h2>💬 Support</h2>
-  <p><b>We speak Spanish!</b> (<i>Hablamos español</i>).</p>
-  <p>If you have any questions regarding the software or the documentation process, feel free to reach out in English or Spanish.</p>
-  <br>
-  <p><i>Developed for the iOS Community by @DarkboyBeyond.</i></p>
-</div>
+## Issues ❓
+**idk, u tell me!**
+Found a bug? Missing your region/build? Want a new feature?
+→ Open an **Issue** here on GitHub and I’ll check it as soon as possible! 🛠️
+
+---
+
+## Support & Future Development ❤️
+Your $5 registration fee directly funds the research and development of the next big features:
+- Research and integration of the latest exploits for **iOS 18.7.3+** and **iOS 26.X+**.
+- Push notifications fix 📲
+- Partial iServices restoration (iCloud sign-in, Apple Pay, etc.)
+- Stabilization for rare regions 🌍
+
+All future builds & changelogs will be published right here on GitHub (closed-source binaries, open changelogs & community files).
+
+**Contact & Support:**
+* 🌐 **Web:** [https://magicstore.qzz.io/](https://magicstore.qzz.io/)
+* 𝕏 **X (Twitter):** [x.com/magicactivator](https://x.com/magicactivator)
+* 💬 **WhatsApp Support:** [+504 9291-2204](https://wa.me/50492912204)
+
+---
+
+## Roadmap (Actively in Development) 🗺️
+- Ongoing research for iOS 18.7.3+ and iOS 26.2+ (Beta 2+) exploits.
+- ~~Native macOS version 🍎~~
+- ~~Built-in MobileGestalt extractor~~
+- Misaka26/TrollStore integration
+
+---
+
+## Screenshots 🖼️
+
+**Windows Port**
+<p align="center">
+  <img src="Screenshot.png" width="980"/>
+</p>
+
+**macOS Port**
+<p align="center">
+  <img src="Screenshot-2.png" width="980"/>
+</p>
+
+---
+
+## Credits & Love ❤️
+- Lead developer: @DarkboyBeyond (Honduras 🇭🇳)
+- Inspired by redsn0w, checkra1n & the old jailbreak legends
+- Huge thanks to every file contributor and tester!
+
+## License
+Proprietary binaries.
+Changelogs, docs & community files: MIT.
+
+**Magic Activator Pro – Bringing locked devices back to life, one bypass at a time.**
+Follow @DarkboyBeyond on X for instant updates! 🪄✨
+
+*Last updated: March 15, 2026*
