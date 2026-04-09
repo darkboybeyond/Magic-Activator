@@ -1,22 +1,26 @@
-<p align="center">
-  <img src="logo.png" width="280"/>
-  <br>
-  <b>Magic Activator Pro – Premium iCloud Bypass Tool </b>
-</p>
+<div align="center">
+  <img src="logo.png" width="180" alt="Magic Activator Pro Logo">
+  <h1>Magic Activator Pro 🪄🔓</h1>
+  <p><b>Premium iCloud Activation Lock Bypass Tool.</b></p>
+</div>
 
-# Magic Activator Pro – iCloud Activation Lock Bypass 🪄🔓
+---
 
-## Overview ✨
+### ✨ Overview
 **Magic Activator Pro** is the professional evolution of iCloud bypassing. Due to high server maintenance costs and the complexity of developing for Apple’s latest versions, the project has transitioned to a monetized Pro model.
 
 Spiritual successor of the legendary redsn0w, currently supporting **iOS 14-18.7.2** and **iOS 26.0 through 26.1 and 26.2 Beta 1**! 🚀
 Support for Chinese devices (CH/A) is currently under evaluation and will be clarified in future updates.
 
-**Use ONLY on devices you own or have permission to unlock.** Bypassing iCloud violates Apple’s ToS – do it responsibly.
+> [!WARNING]
+> **Use ONLY on devices you own or have permission to unlock.** Bypassing iCloud violates Apple’s ToS – do it responsibly.
 
 ---
 
-## 💎 Pricing & Registration
+<div align="center">
+  <h2>💎 Pricing & Registration</h2>
+</div>
+
 To maintain infrastructure and active development for new exploits, Magic Activator Pro requires Serial Number (SN) registration. Your support through registration is vital; it directly funds the research needed to find and develop exploits for currently unsupported versions like iOS 18.7.3+ and iOS 26.X+.
 
 * **Cost:** $5.00 USD per device.
@@ -24,7 +28,11 @@ To maintain infrastructure and active development for new exploits, Magic Activa
 * **Registration Panel:** https://magicstore.qzz.io/index.html
 
 ---
-## 🆕 Changelog (v1.1.2.3-1 Update) 🛠️
+
+<div align="center">
+  <h2>🆕 Changelog (v1.1.2.3-1 Update) 🛠️</h2>
+</div>
+
 * **Native macOS Support:** Released the official macOS port.
 * **Built-in MobileGestalt Extractor:** Automatically extracts all necessary data upon connection.
 * **New Registration System:** Implemented a direct registration button for new devices, streamlining the initial workflow.
@@ -38,19 +46,29 @@ To maintain infrastructure and active development for new exploits, Magic Activa
 * **OTA & Server Synergy:** Optimized OTA block operations and unified servers/files for maximum global effectiveness.
 
 ---
-## IMPORTANT – Required Dependencies ⚠️
-**Magic Activator Pro requires Python to work correctly:**
 
-1. **Download and install Python 3.11.9 (64-bit)**
-   → https://www.python.org/ftp/python/3.11.9/python-3.11.9-amd64.exe
-   ☑️ **IMPORTANT:** During installation, check "**Add Python to PATH**"
+<div align="center">
+  <h2>⚠️ IMPORTANT – Required Dependencies</h2>
+</div>
 
-2. **Install pymobiledevice3** (open CMD as Administrator and run):
-   ```bash
-   pip install pymobiledevice3==6.1.5
-   ```
+> [!IMPORTANT]
+> **Magic Activator Pro requires Python to work correctly:**
+> 
+> 1. **Download and install Python 3.11.9 (64-bit)**
+>    → https://www.python.org/ftp/python/3.11.9/python-3.11.9-amd64.exe
+>    ☑️ **IMPORTANT:** During installation, check "**Add Python to PATH**"
+> 
+> 2. **Install pymobiledevice3** (open CMD as Administrator and run):
+>    ```bash
+>    pip install pymobiledevice3==6.1.5
+>    ```
 
-## Compatibility 📱
+---
+
+<div align="center">
+  <h2>📱 Compatibility</h2>
+</div>
+
 | Category | Supported |
 | :--- | :--- |
 | **Supported Versions** | iOS 17.0 → iOS 18.7.2 / iOS 26.0.1, 26.1, and 26.2 Beta 1 ✅ |
@@ -61,7 +79,10 @@ To maintain infrastructure and active development for new exploits, Magic Activa
 
 ---
 
-## How It Works (Technical Deep Dive) 🛠️
+<div align="center">
+  <h2>🛠️ How It Works (Technical Deep Dive)</h2>
+</div>
+
 1. Connect device via USB (normal mode) 🔌
 2. Tool reads ECID, model, region & iOS build 🔍
 3. **Register your SN** in the [Magic Store](https://magicstore.qzz.io/index.html) ($5 USD fee).
@@ -70,11 +91,16 @@ To maintain infrastructure and active development for new exploits, Magic Activa
 6. Record gets injected → device activated successfully 🎉
 7. OTA updates block 🛡️
 
-**Success time:** 3–7 minutes ⏱️
-**>10 min = abort & retry after cooldown**
+> [!TIP]
+> **Success time:** 3–7 minutes ⏱️  
+> **>10 min = abort & retry after cooldown**
 
 ---
-## Features 🔥
+
+<div align="center">
+  <h2>🔥 Features</h2>
+</div>
+
 - **Premium Build:** Premium servers with ultra-fast response for Pro activations. 💸
 - **Integrated Extractor:** Native data gathering for smoother processing.
 - No jailbreak required 🚫
@@ -85,7 +111,10 @@ To maintain infrastructure and active development for new exploits, Magic Activa
 
 ---
 
-## Installation & Usage 🚀
+<div align="center">
+  <h2>🚀 Installation & Usage</h2>
+</div>
+
 1. Register and pay for your SN ($5 USD) → https://magicstore.qzz.io/index.html
 2. Download latest build (**v1.1.2.3-1**)
 3. Run as Administrator (Windows) / Sudo (macOS) 👑
@@ -93,7 +122,10 @@ To maintain infrastructure and active development for new exploits, Magic Activa
 
 ---
 
-## Current Limitations ⚠️
+<div align="center">
+  <h2>⚠️ Current Limitations</h2>
+</div>
+
 - No full iCloud services (Drive, Find My, etc.)
 - No push notifications on some builds
 - Calls/SMS may be broken on GSM devices
@@ -101,14 +133,20 @@ To maintain infrastructure and active development for new exploits, Magic Activa
 
 ---
 
-## Issues ❓
-**idk, u tell me!**
-Found a bug? Missing your region/build? Want a new feature?
+<div align="center">
+  <h2>❓ Issues</h2>
+</div>
+
+**idk, u tell me!**  
+Found a bug? Missing your region/build? Want a new feature?  
 → Open an **Issue** here on GitHub and I’ll check it as soon as possible! 🛠️
 
 ---
 
-## Support & Future Development ❤️
+<div align="center">
+  <h2>❤️ Support & Future Development</h2>
+</div>
+
 Your $5 registration fee directly funds the research and development of the next big features:
 - Research and integration of the latest exploits for **iOS 18.7.3+** and **iOS 26.X+**.
 - Push notifications fix 📲
@@ -124,7 +162,10 @@ All future builds & changelogs will be published right here on GitHub (closed-so
 
 ---
 
-## Roadmap (Actively in Development) 🗺️
+<div align="center">
+  <h2>🗺️ Roadmap (Actively in Development)</h2>
+</div>
+
 - Ongoing research for iOS 18.7.3+ and iOS 26.2+ (Beta 2+) exploits.
 - ~~Native macOS version 🍎~~
 - ~~Built-in MobileGestalt extractor~~
@@ -132,30 +173,33 @@ All future builds & changelogs will be published right here on GitHub (closed-so
 
 ---
 
-## Screenshots 🖼️
+<div align="center">
+  <h2>🖼️ Screenshots</h2>
 
-**Windows Port**
-<p align="center">
-  <img src="Screenshot.png" width="980"/>
-</p>
+  <h3>Windows Port</h3>
+  <img src="Screenshot.png" width="600">
+  
+  <br><br>
 
-**macOS Port**
-<p align="center">
-  <img src="Screenshot-2.png" width="980"/>
-</p>
+  <h3>macOS Port</h3>
+  <img src="Screenshot-2.png" width="600">
+</div>
 
 ---
 
-## Credits & Love ❤️
+<div align="center">
+  <h2>❤️ Credits & Love</h2>
+</div>
+
 - Lead developer: @DarkboyBeyond (Honduras 🇭🇳)
 - Inspired by redsn0w, checkra1n & the old jailbreak legends
 - Huge thanks to every file contributor and tester!
 
-## License
-Proprietary binaries.
+### License
+Proprietary binaries.  
 Changelogs, docs & community files: MIT.
 
-**Magic Activator Pro – Bringing locked devices back to life, one bypass at a time.**
+**Magic Activator Pro – Bringing locked devices back to life, one bypass at a time.**  
 Follow @DarkboyBeyond_ on X for instant updates! 🪄✨
 
 *Last updated: March 15, 2026*
