@@ -156,6 +156,6 @@ Proprietary binaries.
 Changelogs, docs & community files: MIT.
 
 **Magic Activator Pro – Bringing locked devices back to life, one bypass at a time.**
-Follow @DarkboyBeyond on X for instant updates! 🪄✨
+Follow @DarkboyBeyond_ on X for instant updates! 🪄✨
 
 *Last updated: March 15, 2026*
