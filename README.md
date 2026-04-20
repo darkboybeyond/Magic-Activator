@@ -4,7 +4,7 @@
   <p><b>Premium iCloud Activation Lock Bypass Tool.</b></p>
 
   <p>
-    <img src="https://img.shields.io/badge/Version-1.2.0--blue.svg?style=for-the-badge" alt="Version">
+    <img src="https://img.shields.io/badge/Version-1.2.0-blue.svg?style=for-the-badge" alt="Version">
     <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-lightgrey.svg?style=for-the-badge" alt="Platform">
     <img src="https://img.shields.io/badge/Language-English-green.svg?style=for-the-badge" alt="Language">
   </p>
