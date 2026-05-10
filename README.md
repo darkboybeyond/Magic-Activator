@@ -36,11 +36,10 @@ To maintain infrastructure and active development for new exploits, Magic Activa
 ---
 
 <div align="center">
-  <h2>🆕 Changelog (v1.1.2.3-1 Update) 🛠️</h2>
+  <h2>🆕 Changelog (v1.2.x) 🛠️</h2>
 </div>
 
 * **Native macOS Support:** Released the official macOS port.
-* **Built-in MobileGestalt Extractor:** Automatically extracts all necessary data upon connection.
 * **New Registration System:** Implemented a direct registration button for new devices, streamlining the initial workflow.
 * **Enhanced Activation Recovery:** New activation key gathering method designed specifically for erased or hard-reset devices, ensuring the fastest possible server response.
 * **Extended Compatibility:** Added support for "Disabled" or "Passcode Locked" states within the Activation Lock flow.
