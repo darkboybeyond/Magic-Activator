@@ -120,8 +120,8 @@ To maintain infrastructure and active development for new exploits, Magic Activa
   <h2>🚀 Installation & Usage</h2>
 </div>
 
-1. Register and pay for your SN ($5 USD) → https://magicstore.qzz.io/index.html
-2. Download latest build (**v1.1.2.3-1**)
+1. Register and pay for your SN ($5 USD) → https://magicstore.qzz.io/index.php
+2. Download latest build (**v1.2.1**)
 3. Run as Administrator (Windows) / Sudo (macOS) 👑
 4. Put device in Normal, Use Wi-Fi → select correct workflow → wait for the magic 🎇
 
