@@ -31,7 +31,7 @@ To maintain infrastructure and active development for new exploits, Magic Activa
 
 * **Cost:** $5.00 USD per device.
 * **Access:** Permanent registration for the processed SN (unlimited re-activations on the same device).
-* **Registration Panel:** https://magicstore.qzz.io/index.html
+* **Registration Panel:** https://magicstore.qzz.io/index.php
 
 ---
 
@@ -90,7 +90,7 @@ To maintain infrastructure and active development for new exploits, Magic Activa
 
 1. Connect device via USB (normal mode) 🔌
 2. Tool reads ECID, model, region & iOS build 🔍
-3. **Register your SN** in the [Magic Store](https://magicstore.qzz.io/index.html) ($5 USD fee).
+3. **Register your SN** in the [Magic Store](https://magicstore.qzz.io/index.php) ($5 USD fee).
 4. Provide exact **MobileGestalt + supporting files** .
 5. Magic server generates a signed activation ticket 🎟️
 6. Record gets injected → device activated successfully 🎉
