@@ -31,7 +31,7 @@ To maintain infrastructure and active development for new exploits, Magic Activa
 
 * **Cost:** $5.00 USD per device.
 * **Access:** Permanent registration for the processed SN (unlimited re-activations on the same device).
-* **Registration Panel:** https://magicstore.qzz.io/index.php
+* **Registration Panel:** https://magicstore.pro/index.php
 
 ---
 
@@ -90,7 +90,7 @@ To maintain infrastructure and active development for new exploits, Magic Activa
 
 1. Connect device via USB (normal mode) 🔌
 2. Tool reads ECID, model, region & iOS build 🔍
-3. **Register your SN** in the [Magic Store](https://magicstore.qzz.io/index.php) ($5 USD fee).
+3. **Register your SN** in the [Magic Store](https://magicstore.pro/index.php) ($5 USD fee).
 4. Provide exact **MobileGestalt + supporting files** .
 5. Magic server generates a signed activation ticket 🎟️
 6. Record gets injected → device activated successfully 🎉
@@ -120,7 +120,7 @@ To maintain infrastructure and active development for new exploits, Magic Activa
   <h2>🚀 Installation & Usage</h2>
 </div>
 
-1. Register and pay for your SN ($5 USD) → https://magicstore.qzz.io/index.php
+1. Register and pay for your SN ($5 USD) → https://magicstore.pro/index.php
 2. Download latest build (**v1.2.1**)
 3. Run as Administrator (Windows) / Sudo (macOS) 👑
 4. Put device in Normal, Use Wi-Fi → select correct workflow → wait for the magic 🎇
@@ -161,7 +161,7 @@ Your $5 registration fee directly funds the research and development of the next
 All future builds & changelogs will be published right here on GitHub (closed-source binaries, open changelogs & community files).
 
 **Contact & Support:**
-* 🌐 **Web:** [https://magicstore.qzz.io/](https://magicstore.qzz.io/)
+* 🌐 **Web:** [https://magicstore.pro/](https://magicstore.pro/)
 * 𝕏 **X (Twitter):** [x.com/magicactivator](https://x.com/magicactivator)
 * 💬 **WhatsApp Support:** [+504 9291-2204](https://wa.me/50492912204)
 
