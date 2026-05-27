@@ -19,7 +19,7 @@
 
 This new model allows users to test the service with limited free access while still keeping paid licenses available for full, permanent device registration.
 
-Spiritual successor of the legendary redsn0w, currently supporting **iOS 17.0 – 18.7.2** and **iOS 26.0.1 through 26.1 and 26.2 Beta 1**! 🚀  
+Spiritual successor of the legendary redsn0w, currently supporting **iOS 13.0 – 18.7.2** and **iOS 26.0.1 through 26.1 and 26.2 Beta 1**! 🚀  
 Support for Chinese devices (CH/A) is currently under evaluation and will be clarified in future updates.
 
 > [!WARNING]
@@ -128,7 +128,7 @@ Install `pymobiledevice3`:
 
 | Category | Supported |
 | :--- | :--- |
-| **Supported Versions** | iOS 17.0 → iOS 18.7.2 / iOS 26.0.1, 26.1, and 26.2 Beta 1 ✅ |
+| **Supported Versions** | iOS 13.0 → iOS 18.7.2 / iOS 26.0.1, 26.1, and 26.2 Beta 1 ✅ |
 | **NOT Supported Yet** | iOS 18.7.3+ and iOS 26.2 Beta 2+ (Researching exploits) ⚠️ |
 | **Devices** | A12 → A19 (iPhone Xs → iPhone 17/Air series & compatible iPads) |
 | **Best regions** | Global Support (LL/A, EU, ASIA) 🌎 |
