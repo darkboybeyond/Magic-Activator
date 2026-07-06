@@ -4,7 +4,7 @@
   <p><b>Professional iCloud Activation Management Tool for Windows and macOS.</b></p>
 
   <p>
-    <img src="https://img.shields.io/badge/Version-1.2.2-blue.svg?style=for-the-badge" alt="Version">
+    <img src="https://img.shields.io/badge/Version-1.5_Legacy-blue.svg?style=for-the-badge" alt="Version">
     <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-lightgrey.svg?style=for-the-badge" alt="Platform">
     <img src="https://img.shields.io/badge/Language-English%20%7C%20Spanish-green.svg?style=for-the-badge" alt="Language">
   </p>
@@ -28,7 +28,7 @@ Support for Chinese devices (CH/A) is currently under evaluation and will be cla
 
 
 <div align="center">
-  <h2>🆕 Changelog (v1.2.2) 🛠️</h2>
+  <h2>🆕 Changelog (v1.5 Legacy) 🛠️</h2>
 </div>
 
 * **RAM-Only Registration Verification:** Replaced old log-based verification with secure `check_sn.php` validation directly in memory.
@@ -155,7 +155,7 @@ Install `pymobiledevice3`:
   <h2>🚀 Installation & Usage</h2>
 </div>
 
-1. Download latest build (**v1.2.2**)
+1. Download latest build (**v1.5 Legacy**)
 2. Install required dependencies if prompted.
 3. Run as Administrator on Windows / open normally on macOS and allow required permissions 👑
 4. Connect your device via USB in normal mode.
@@ -267,8 +267,8 @@ All future builds & changelogs will be published right here on GitHub.
 Proprietary binaries.  
 Changelogs, docs & community files: MIT.
 
-**Magic Activator Pro – Professional, secure, and redesigned for v1.2.2.**  
+**Magic Activator Pro – Professional, secure, and redesigned for v1.5 Legacy.**  
 **One free registration every 24 hours. Paid license required after the  window.**  
 Follow @DarkboyBeyond_ on X for instant updates! 🪄✨
 
-*Last updated: March 15, 2026*
+*Last updated: July 6, 2026*
