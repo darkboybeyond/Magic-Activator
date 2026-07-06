@@ -267,8 +267,7 @@ All future builds & changelogs will be published right here on GitHub.
 Proprietary binaries.  
 Changelogs, docs & community files: MIT.
 
-**Magic Activator Pro – Professional, secure, and redesigned for v1.5 Legacy.**  
-**One free registration every 24 hours. Paid license required after the  window.**  
+**Magic Activator Pro – Professional, secure, and redesigned for v1.5 Legacy.**   
 Follow @DarkboyBeyond_ on X for instant updates! 🪄✨
 
 *Last updated: July 6, 2026*
