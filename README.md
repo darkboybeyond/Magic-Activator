@@ -40,12 +40,6 @@ Additional MobileGestalt support files are available for compatible workflows. S
 ## 📊 Project Growth & Downloads
 
 <div align="center">
-  <a href="https://star-history.com/#darkboybeyond/Magic-Activator&Date">
-    <img src="https://api.star-history.com/svg?repos=darkboybeyond/Magic-Activator&type=Date" width="760" alt="Magic Activator Pro star history chart">
-  </a>
-</div>
-
-<div align="center">
   <a href="https://github.com/darkboybeyond/Magic-Activator/releases">
     <img src="https://img.shields.io/github/downloads/darkboybeyond/Magic-Activator/total?style=for-the-badge&logo=github&label=All%20Release%20Downloads&color=4DA3FF" alt="All release downloads">
   </a>
@@ -54,8 +48,15 @@ Additional MobileGestalt support files are available for compatible workflows. S
   </a>
 </div>
 
+| Live project metric | Official GitHub source |
+| :--- | :--- |
+| ⭐ Community stars | [View stargazers](https://github.com/darkboybeyond/Magic-Activator/stargazers) |
+| 📦 Release downloads | [View all releases](https://github.com/darkboybeyond/Magic-Activator/releases) |
+| 🚀 Latest release | [Open the latest release](https://github.com/darkboybeyond/Magic-Activator/releases/latest) |
+| 🍴 Community forks | [View repository forks](https://github.com/darkboybeyond/Magic-Activator/network/members) |
+
 > [!NOTE]
-> These metrics are generated from the public GitHub repository and update automatically. Download totals count assets distributed through GitHub Releases.
+> The counters above read the public GitHub repository directly and update automatically. No local chart image or additional project asset is required. Download totals count assets distributed through GitHub Releases.
 
 ---
 
