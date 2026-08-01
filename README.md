@@ -6,7 +6,7 @@
   <p><b>Professional iCloud Activation Management Platform · Native Connection Engine · Windows & macOS</b></p>
 
   <p>
-    <img src="https://img.shields.io/badge/Version-1.5_Legacy-4DA3FF?style=for-the-badge" alt="Version 1.5 Legacy">
+    <img src="https://img.shields.io/badge/Version-1.6_Legacy-4DA3FF?style=for-the-badge" alt="Version 1.5 Legacy">
     <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-lightgrey?style=for-the-badge" alt="Windows and macOS">
     <img src="https://img.shields.io/badge/UI-Liquid_Glass_V3-111111?style=for-the-badge&logo=apple&logoColor=white" alt="Liquid Glass V3">
     <img src="https://img.shields.io/badge/Language-English%20%7C%20Spanish-22A06B?style=for-the-badge" alt="English and Spanish">
@@ -421,7 +421,7 @@ Found a bug, a missing region/build, or have a feature request? Open a GitHub Is
 Development focuses on broader compatibility, reliable native device communication, improved support-file workflows, stronger privacy protection, and consistent Windows/macOS releases. Future builds and changelogs will be published in this repository.
 
 - 🌐 **Website:** [magicstore.pro](https://magicstore.pro/)
-- 𝕏 **X:** [@magicactivator](https://x.com/magicactivator)
+- 🧵 **Threads:** [@darkboybeyond](https://www.threads.net/@darkboybeyond)
 - 💬 **WhatsApp Support:** [+504 9291-2204](https://wa.me/50492912204)
 
 ---
@@ -436,7 +436,7 @@ Development focuses on broader compatibility, reliable native device communicati
 
 <div align="center">
   <p><b>Magic Activator Pro — professional activation management with native connectivity, privacy-safe validation, and Liquid Glass V3.</b></p>
-  <p>Follow <a href="https://x.com/DarkboyBeyond_">@DarkboyBeyond_</a> for product updates. 🪄✨</p>
+  <p>Follow <a href="https://www.threads.net/@darkboybeyond">@darkboybeyond on Threads</a> for product updates. 🪄✨</p>
   <img src="https://img.shields.io/badge/Made_with-Liquid_Glass-black?style=for-the-badge&logo=apple" alt="Made with Liquid Glass">
 </div>
 
