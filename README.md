@@ -17,7 +17,6 @@
     <a href="https://github.com/darkboybeyond/Magic-Activator/network/members"><img src="https://img.shields.io/github/forks/darkboybeyond/Magic-Activator?style=flat-square&logo=github&label=Forks" alt="GitHub forks"></a>
     <a href="https://github.com/darkboybeyond/Magic-Activator/watchers"><img src="https://img.shields.io/github/watchers/darkboybeyond/Magic-Activator?style=flat-square&logo=github&label=Watchers" alt="GitHub watchers"></a>
     <a href="https://github.com/darkboybeyond/Magic-Activator/releases"><img src="https://img.shields.io/github/downloads/darkboybeyond/Magic-Activator/total?style=flat-square&logo=github&label=Total%20Downloads&color=4DA3FF" alt="Total downloads"></a>
-    <a href="https://github.com/darkboybeyond/Magic-Activator/releases/latest"><img src="https://img.shields.io/github/downloads/darkboybeyond/Magic-Activator/latest/total?style=flat-square&logo=github&label=Latest%20Release" alt="Latest release downloads"></a>
     <img src="https://img.shields.io/badge/Python-3.11.9-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 3.11.9">
   </p>
 </div>
