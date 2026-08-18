@@ -150,11 +150,10 @@ logs/crash_report.log
 
 ### Integrated Workflows
 
-- Native device-data gathering and built-in MobileGestalt extractor.
+- Native device-data gathering and built-in steps for MobileGestalt extraction.
 - No jailbreak required for supported workflows.
 - Real-time detailed logs with privacy masking.
-- OTA update blocking after completion.
-- tvOS profile sideloading.
+- OTA update blocking after bypass.
 - Support-file checker and guided **Provide Support File** workflow.
 - GUID Scan Method available under **Available Actions**.
 - AUTO, FORCE LIVE, and FORCE OFFLINE scan modes.
